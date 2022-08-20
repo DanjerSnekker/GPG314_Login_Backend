@@ -1,0 +1,19 @@
+{
+  "name": "gpg314_login_backend",
+  "version": "1.0.0",
+  "description": "Login System Backend For GPG314 Side Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanjerSnekker/GPG314_Login_Backend.git"
+  },
+  "author": "Farhan Ul Haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanjerSnekker/GPG314_Login_Backend/issues"
+  },
+  "homepage": "https://github.com/DanjerSnekker/GPG314_Login_Backend#readme"
+}
